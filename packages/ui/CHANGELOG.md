@@ -1,5 +1,12 @@
 # @lion/ui
 
+## 0.2.1
+
+### Patch Changes
+
+- a5f35158: feat(@lion/ui): add \_previousIconTemplate and \_nextIconTemplate to LionCalendar
+- ddea63b3: [combobox] update option list after clear
+
 ## 0.2.0
 
 ### Minor Changes
